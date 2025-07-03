@@ -3,9 +3,8 @@
 
 📧 **Email:** [mohamedhalem909@gmail.com](mailto:mohamedhalem909@gmail.com)  
 📞 **Phone:** +20 101 842 9247  
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🌐 **Portfolio:** [Your Portfolio](https://yourportfolio.com)  
-💻 **GitHub:** [@yourusername](https://github.com/yourusername)  
+🔗 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/mohamed-halim990/)  
+🌐 **Portfolio:** [Your Portfolio](https://xxhalemxx.github.io/portfolio/)  
 
 ---
 
@@ -23,7 +22,7 @@ I’m a passionate **Flutter Developer** with a Bachelor’s in Computer Science
 
 ## 💼 Professional Experience  
 
-### **Coding Instructor (Flutter)** @ [iSchool]([https://ischool.com](https://www.ischooltech.com/eg/home-ar)) *(Mar 2024 - Present)*  
+### **Coding Instructor (Flutter)** @ [iSchool](https://www.ischooltech.com/eg/home-en) *(Mar 2024 - Present)*  
 - Teach **Flutter app development**, web dev (HTML/CSS/JS), and game dev (Unity/Godot).  
 - Guide students in building real-world projects with best practices in **software architecture**.  
 
