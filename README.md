@@ -53,7 +53,7 @@ Attendance tracker using **hotspot-based P2P communication**.
 - Features: Excel import/export, CRUD operations.  
 - **Tech:** Flutter, Clean Architecture.  
 
-[🔗 **View All Projects**](https://github.com/yourusername?tab=repositories)  
+[🔗 **View All Projects**](https://github.com/xXhalemXx?tab=repositories)  
 
 ---
 
